@@ -8,10 +8,10 @@ const HTML = () => {
         user can&apos;t see this section content except the page title
       </p>
       <h2>Important meta tags</h2>
-      <code>&lt;meta charset=`&quot;UTF-8`&quot; /&gt;</code>
+      <code>&lt;meta charset=&quot;UTF-8&quot; /&gt;</code>
       <code>
-        &lt;meta name=`&quot;viewport`&quot; content=`&quot;width=device-width,
-        initial-scale=1.0`&quot; /&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width,
+        initial-scale=1.0&quot; /&gt;
       </code>
 
       <p>The body tag</p>
