@@ -12,6 +12,8 @@ const TextEditor = () => {
         <li>Live Server</li>
         <li>Prettier - Code formatter</li>
         <li>Tailwind CSS IntelliSense</li>
+        <li>auto rename tag</li>
+        <li>auto close tag</li>
       </ul>
     </div>
   );
