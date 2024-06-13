@@ -2,7 +2,14 @@ import React from 'react'
 
 const CSSRefrencePage = () => {
   return (
-    <div>CSS Refrence Page</div>
+    <>
+    <h1>CSS &Amp; Tailwind Refrence Page</h1>
+    <h2>Tricks</h2>
+    <ul>
+      <li>Steal the images you like online by use inspect and copying the image Links</li>
+    </ul>
+    </>
+    
   )
 }
 
