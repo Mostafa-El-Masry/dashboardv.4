@@ -17,6 +17,8 @@ const HTML = () => {
       <p>The body tag</p>
       <p>It contains every thing the user sees</p>
       <p>it&apos;s written as tags</p>
+
+      <h2>Forms &amp; Inputs</h2>
       <p>
         Headings: there are six headers from 1 to 6. 1 being the largest and 6
         being t smallest. h1 should be used once per page for the page header.
