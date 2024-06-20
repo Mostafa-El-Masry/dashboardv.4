@@ -11,6 +11,7 @@ const NextJs = () => {
       <Link className='Link' href="/">Home</Link>
       <Link className='Link' href="/content/Next-JS/HTML">HTML</Link>
       <Link className='Link' href="/content/Next-JS/CSS">CSS</Link>
+      <Link className='Link' href="/content/Next-JS/JS">JS</Link>
       <Link className='Link' href="/content/Next-JS/TextEditor">Text Editor</Link>
       </div>
     </>
