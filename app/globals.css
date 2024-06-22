@@ -30,7 +30,8 @@ h2 {
 
 .Link {
     font-size: 1.2rem;
-    background-color: #2e86de;
+    background-color: ;
+    /* 14 bg-gradient-to-r from-cyan-500 to-blue-500 */
     color: #c8d6e5;
     margin: 2rem;
     padding: .7rem 2.5rem;
