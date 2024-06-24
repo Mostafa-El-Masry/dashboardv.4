@@ -1,7 +1,10 @@
+import Link from "next/link";
+
 const HTML = () => {
   return (
-    <div>
+    <>
       <h1>HTML</h1>
+      <Link className='Link' href="/content/Next-JS">Back</Link>
       <p>The header Tag</p>
       <p>
         It contains the title , Meta tags &amp; links to other css pages. the
@@ -75,7 +78,7 @@ const HTML = () => {
       <h2>Important attributies</h2>
       <p>_target: opne page in a new tab in the browser.</p>
       <p>alt: A text that appears in case img didn&apos;t render yet.</p>
-    </div>
+    </>
   );
 };
 

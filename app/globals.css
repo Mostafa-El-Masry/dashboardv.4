@@ -30,6 +30,7 @@ h2 {
 
 
 .Link {
+    display: inline-block;
     font-size: 1rem;
     background-image: radial-gradient(circle 248px at center, #16d9e3 0%, #30c7ec 47%, #46aef7 100%);
     background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);

@@ -1,5 +1,4 @@
 import Link from 'next/link'
-import React from 'react'
 
 const Diabitieschart = () => {
   return (
@@ -17,10 +16,10 @@ const Diabitieschart = () => {
         </thead>
         <tbody>
             <tr>
-                <td>22/06/2024</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td>23/06/2024</td>
+                <td>222</td>
+                <td>377</td>
+                <td>350</td>
                 <td>0</td>
             </tr>
             <tr>

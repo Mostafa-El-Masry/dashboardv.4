@@ -1,9 +1,11 @@
+import Link from "next/link";
 import React from "react";
 
 const TextEditor = () => {
   return (
-    <div>
+    <>
       <h1>Text Editor</h1>
+      <Link className='Link' href="/content/Next-JS">Back</Link>
       <h2>Visual Studio Code</h2>
       <h3>Extensions</h3>
       <ul>
@@ -15,7 +17,7 @@ const TextEditor = () => {
         <li>auto rename tag</li>
         <li>auto close tag</li>
       </ul>
-    </div>
+    </>
   );
 };
 
