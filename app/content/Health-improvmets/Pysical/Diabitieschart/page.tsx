@@ -20,7 +20,7 @@ const Diabitieschart = () => {
                 <td>222</td>
                 <td>377</td>
                 <td>350</td>
-                <td>0</td>
+                <td>320</td>
             </tr>
             <tr>
                 <td>24/06/2024</td>
