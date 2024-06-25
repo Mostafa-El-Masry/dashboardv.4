@@ -23,7 +23,28 @@ const Diabitieschart = () => {
                 <td>0</td>
             </tr>
             <tr>
+                <td>24/06/2024</td>
+                <td>289</td>
+                <td>260</td>
+                <td>265</td>
+                <td>222</td>
+            </tr>
+            <tr>
+            <td>2 /06/2024</td>
                 <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+            <td>2 /06/2024</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+            <td>2 /06/2024</td>
                 <td></td>
                 <td></td>
                 <td></td>
