@@ -30,17 +30,17 @@ const Diabitieschart = () => {
                 <td>222</td>
             </tr>
             <tr>
-            <td>2 /06/2024</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+            <td>25/06/2024</td>
+                <td>230</td>
+                <td>280</td>
+                <td>410</td>
+                <td>284</td>
             </tr>
             <tr>
-            <td>2 /06/2024</td>
-                <td></td>
-                <td></td>
-                <td></td>
+            <td>26/06/2024</td>
+                <td>224</td>
+                <td>181</td>
+                <td>267</td>
                 <td></td>
             </tr>
             <tr>
