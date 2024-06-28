@@ -1,8 +1,13 @@
-
+"use client"
 import Link from '@/node_modules/next/link'
+import { useRouter } from 'next/navigation';
 import React from 'react'
 
 const NextJs = () => {
+  const router = useRouter();
+  const navigation = (page) => {
+    router.push(page);
+    };
   return (
     <>
     <h1>Next JS Mastering (dashboard)</h1>
@@ -12,6 +17,7 @@ const NextJs = () => {
       <Link className='Link' href="/content/Next-JS/HTML">HTML</Link>
       <Link className='Link' href="/content/Next-JS/CSS">CSS</Link>
       <Link className='Link' href="/content/Next-JS/JS">JS</Link>
+      <button className='Link' onClick={() => navigation("/content/Next-JS/NextJSTricks")}>Next JS</button>
       <Link className='Link' href="/content/Next-JS/TextEditor">Text Editor</Link>
       </div>
     </>
