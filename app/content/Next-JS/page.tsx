@@ -3,6 +3,10 @@ import Link from '@/node_modules/next/link'
 import { useRouter } from 'next/navigation';
 import React from 'react'
 
+interface page {
+  id: number;
+}
+
 const NextJs = () => {
   const router = useRouter();
   const navigation = (page) => {
