@@ -1,8 +1,10 @@
+import Link from "next/link"
 
 const NextJSTricks = () => {
   return (
     <>
     <h1>NextJSTricks</h1>
+    <Link className='Link' href="/content/Next-JS">Back</Link>
     <h2>useRouter</h2>
     <ul>
       <li>&#34;use client&#34;</li>
